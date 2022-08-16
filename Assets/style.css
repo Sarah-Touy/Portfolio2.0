@@ -178,6 +178,29 @@ width: 100;
 align-items: center;
 }
 
+/*Coding Projectes I've Worked On */
+
+
+
+/*Reach Out */
+.reach-out h2 {
+  font-size: 38px;
+  color: var(--primary-color);
+  padding-bottom: 15px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
+}
+
+.reach-out p {
+  margin: 0 auto;
+  line-height: 1.0;
+  color: var(--primary-color);
+  width: 80%;
+  font-size: 22px;
+  text-align: center;
+}
+
 .flex-row {
   display: flex;
 }
