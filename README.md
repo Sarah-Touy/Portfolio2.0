@@ -8,7 +8,7 @@ Build a portfolio of work that I can showcase my skills and talents to employers
 * CSS
 
 ## Website
-https://github.com/Sarah-Touy/Portfolio.git
+http://127.0.0.1:5500/
 
 ## Contribution
 Made by Sarah Touy
